@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\ognjen\source\repos\project4\project4\main.cpp(82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ognjen\source\repos\project4\project4\main.cpp(111): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ognjen\source\repos\project4\project4\main.cpp(150): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ognjen\source\repos\project4\project4\main.cpp(150): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\ognjen\source\repos\project4\project4\main.cpp(156): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Project4.vcxproj -> C:\Users\Ognjen\source\repos\Project4\Debug\Project4.exe
+  Project4.vcxproj -> C:\Users\Ognjen\source\repos\Project4\Debug\Project4.pdb (Partial PDB)
